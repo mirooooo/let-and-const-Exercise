@@ -1,0 +1,17 @@
+ES5 Global Constants
+var PI = 3.14;
+
+ES2015 Global Constants
+const PI = 3.14;
+
+What is the difference between var and let?
+With 'let' you can declare variables only in the scope, out of scope those variables do not exist
+
+What is the difference between var and const?
+var can be re-declared and can change tha value of the variable
+
+What is the difference between let and const?
+With 'let' you can change variable to a deffent value with const can't
+
+What is hoisting?
+Hoisting is moving all the variable declarations ot top of the scope
